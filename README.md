@@ -1,4 +1,4 @@
-### javascript
+## javascript
 [继承](https://github.com/mqyqingfeng/Blog/issues/16)
 
 [js深度克隆-包含循环引用](https://cloud.tencent.com/developer/article/1497418)
@@ -33,7 +33,7 @@ new操作符
 promise原理
 generator原理
 
-### 浏览器
+## 浏览器
 
 跨标签页通信
 history和hash两种路由
@@ -44,12 +44,12 @@ DOM树
 浏览器工作原理
 内存泄露
 
-### HTTP
+## HTTP
 [http缓存中etag的生成原理](https://www.cnblogs.com/yalong/p/15207547.html)
 
 [no-catch和no-store的区别](https://www.cnblogs.com/yalong/p/14703910.html)
 
-### 前端编程
+## 前端编程
 
 实现一个trim方法
 实现一个deepClone方法
@@ -66,7 +66,7 @@ DOM树
 判断一个数是否是素数
 获取n以内所有的素数
 
-### vue
+## vue
 
 数据绑定原理
 computed和watch
@@ -75,7 +75,7 @@ next tick原理
 keep alive
 [原生vue实现表格的编辑，包括单元格合并，拆分，删除行/列， 添加行/列](https://www.cnblogs.com/yalong/p/11360200.html)
 
-### react
+## react
 
 合成事件
 virtual dom
@@ -85,13 +85,13 @@ fiber
 错误处理
 性能优化
 
-### 前端轮子系列
+## 前端轮子系列
 
 基础组件库
 业务组件库
 ...
 
-### node
+## node
 [express和koa的区别](https://www.cnblogs.com/yalong/p/15566133.html)
 模块机制
 require原理
@@ -105,7 +105,7 @@ pipe原理
 
 node版本管理: nvm
 
-### 工程化
+## 工程化
 
 [pm2常用命令大全](https://www.cnblogs.com/yalong/p/13931999.html)
 模块化机制
@@ -117,43 +117,43 @@ webpack插件机制
 webpack loader机制
 前端微服务
 
-### 性能
+## 性能
 
-### SEO
+## SEO
 
-#### express
+### express
 
-#### koa2
+### koa2
 
 [koa2 设置Access-Control-Allow-Origin 解决前端跨域问题](https://www.cnblogs.com/yalong/p/14954672.html)
 
 [node.js koa2 如何使用gzip](https://www.cnblogs.com/yalong/p/14948533.html)
 
-#### git
+### git
 [如何配置多个ssh key](https://www.cnblogs.com/godfeer/p/12214301.html)
 
-### 项目
+## 项目
 这些项目很具有参考意义，可以查阅其源码
 
 
-### 前端测试
+## 前端测试
 单元测试
 性能测试
 
-### 规范
+## 规范
 js doc
 rest
 
-### 正则
+## 正则
 [正则实现数字的千位分隔符表示法](https://www.cnblogs.com/yalong/p/15183715.html)
 
 [正则表达式里问号?的用法](https://www.cnblogs.com/yalong/p/15183458.html)
 
-### 算法
+## 算法
 
-### 网络
+## 网络
 
-### 开发工具
+## 开发工具
 
 sourceTree
 vscode
@@ -162,30 +162,32 @@ postman
 mysql workBench
 Tobo 3T
 
-### 数据可视化
+## 数据可视化
 
-### 数据库
+## 数据库
 mysql
 mongoDB
 
-### 解决方案
+## 解决方案
 [前端js实现导出大量数据的excel文件](https://www.cnblogs.com/yalong/p/15095651.html)
 
-### Linux
+## Linux
 
-### Shell
+## Shell
 
-### Docker
+## Docker
 
-### jenkins
+## jenkins
 
-### CI CD
+## CI CD
 
-### Nginx
+## Nginx
 
-### 书籍推荐
-少有人走的路
-被讨厌的秘密
-你不知道的javascript上 中 下
+## 书籍推荐
+[少有人走的路](https://www.amazon.cn/dp/B08M418KHX/ref=sr_1_2?keywords=%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF&qid=1648434431&sprefix=%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%2Caps%2C119&sr=8-2)
+
+[被讨厌的勇气](https://www.amazon.cn/dp/B07N67L1RT/ref=sr_1_1?crid=22X3OND72GJH2&keywords=%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94&qid=1648434509&sprefix=%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%2Caps%2C85&sr=8-1)
+
+[你不知道的javascript上 中 下]()
 
 
