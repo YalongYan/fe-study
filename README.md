@@ -178,10 +178,11 @@ postman
 mysql workBench
 Tobo 3T
 
-## 数据可视化
+## 数据可视化组件库
 bizcharts
 antv
 百度echart
+
 
 ## 数据库
 mysql
@@ -189,6 +190,12 @@ mongoDB
 
 ## 解决方案
 [前端js实现导出大量数据的excel文件](https://www.cnblogs.com/yalong/p/15095651.html)
+表单设计器
+vue实现拖拽生成看板
+react实现拖拽生成看板
+
+## 不错的开源项目 - 可以学习其源码
+---
 
 ## Linux
 
