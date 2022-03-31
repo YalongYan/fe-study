@@ -21,17 +21,7 @@
 
 [jsonp 原理 并模拟实现一个简单的jsonp](https://www.cnblogs.com/yalong/p/11130395.html)
 
-变量提升
-this的指向
-instanceof原理
-bind的实现
-apply和call
-柯里化
-浮点数精度
-new操作符
-事件循环机制
-promise原理
-generator原理
+
 
 ## 浏览器
 
@@ -44,10 +34,26 @@ DOM树
 浏览器工作原理
 内存泄露
 
+## 移动端
+
+移动端适配
+
 ## HTTP
 [http缓存中etag的生成原理](https://www.cnblogs.com/yalong/p/15207547.html)
 
 [no-catch和no-store的区别](https://www.cnblogs.com/yalong/p/14703910.html)
+
+[彻底弄懂session，cookie，token](https://segmentfault.com/a/1190000017831088)
+
+[sessionStorage 和 localStorage](https://www.runoob.com/jsref/prop-win-sessionstorage.html)
+
+[XSS 和 CSRF简述及预防措施](https://www.cnblogs.com/yangsg/p/10621496.html)
+
+http 状态吗
+请求头
+响应头
+三种请求类型 formData  json xxx-
+
 
 ## 前端编程
 
@@ -84,6 +90,10 @@ fiber
 高阶组件
 错误处理
 性能优化
+
+## TypeScript
+
+
 
 ## 前端轮子系列
 
@@ -154,15 +164,24 @@ rest
 ## 网络
 
 ## 开发工具
+### git可视化工具: sourceTree
 
-sourceTree
+
+### 代码编辑器
 vscode
 sublime
+
+### 接口调试工具
 postman
+
+### 数据库管理工具
 mysql workBench
 Tobo 3T
 
 ## 数据可视化
+bizcharts
+antv
+百度echart
 
 ## 数据库
 mysql
@@ -189,5 +208,12 @@ mongoDB
 [被讨厌的勇气](https://www.amazon.cn/dp/B07N67L1RT/ref=sr_1_1?crid=22X3OND72GJH2&keywords=%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94&qid=1648434509&sprefix=%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%2Caps%2C85&sr=8-1)
 
 [你不知道的javascript上 中 下]()
+
+[金字塔原理]()
+
+## 锻炼口才
+
+1.辩论赛视频
+2.
 
 
