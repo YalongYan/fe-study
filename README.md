@@ -36,7 +36,11 @@ DOM树
 
 ## 移动端
 
-移动端适配
+[关于移动端适配，你必须要知道的](https://juejin.cn/post/6844903845617729549)
+
+[总结移动端H5开发常用技巧](https://juejin.cn/post/6844904066301050893)
+
+[几个经常在H5移动端开发遇到的问题](https://juejin.cn/post/6844903959287562254)
 
 ## HTTP
 [http缓存中etag的生成原理](https://www.cnblogs.com/yalong/p/15207547.html)
@@ -198,6 +202,8 @@ react实现拖拽生成看板
 ---
 
 ## Linux
+
+查看端口号的命令： https://www.jianshu.com/p/43186bf7978c
 
 ## Shell
 
