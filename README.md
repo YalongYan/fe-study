@@ -25,6 +25,8 @@
 
 ## 浏览器
 
+ [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
+
 跨标签页通信
 history和hash两种路由
 DOM树
@@ -122,6 +124,9 @@ node版本管理: nvm
 ## 工程化
 
 [pm2常用命令大全](https://www.cnblogs.com/yalong/p/13931999.html)
+
+[当我们聊前端部署时，我们在聊什么](https://juejin.cn/post/7017710911443959839)
+
 模块化机制
 tree shaking
 uglify原理
@@ -207,6 +212,8 @@ react实现拖拽生成看板
 
 curl 的用法指南 https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
 
+[echo > 和 echo >>的区别](https://www.cnblogs.com/aspirant/p/7802989.html)
+
 ## Shell
 
 ## Docker
@@ -216,6 +223,8 @@ curl 的用法指南 https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
 ## CI CD
 
 ## Nginx
+
+[前端Nginx那些事](https://juejin.cn/post/6844904102447546382)
 
 ## 书籍推荐
 [少有人走的路](https://www.amazon.cn/dp/B08M418KHX/ref=sr_1_2?keywords=%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF&qid=1648434431&sprefix=%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%2Caps%2C119&sr=8-2)
