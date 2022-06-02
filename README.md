@@ -27,6 +27,12 @@
 
  [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
 
+ [sessionStorage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/sessionStorage)
+
+ [cookie、session、localStorage、sessionStorage 区别](https://blog.csdn.net/wangyangnuli/article/details/122297960)
+
+
+
 跨标签页通信
 history和hash两种路由
 DOM树
@@ -98,6 +104,9 @@ fiber
 性能优化
 
 ## TypeScript
+
+[TypeScript中值得了解的7个方法](https://www.php.cn/js-tutorial-482155.html)
+
 
 
 
