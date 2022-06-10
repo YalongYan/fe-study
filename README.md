@@ -60,7 +60,9 @@ DOM树
 
 [sessionStorage 和 localStorage](https://www.runoob.com/jsref/prop-win-sessionstorage.html)
 
-[XSS 和 CSRF简述及预防措施](https://www.cnblogs.com/yangsg/p/10621496.html)
+[XSS 和 CSRF简述及预防措施](https://www.cnblogs.com/yangsg/p/10621496.html)、
+
+[options 请求](https://www.codeleading.com/article/74222615780/)
 
 http 状态吗
 请求头
@@ -99,6 +101,9 @@ keep alive
 
 ## react
 
+[React.memo和useMemo的区别及使用](https://blog.csdn.net/qq8241994/article/details/122721902)
+[React Hookl里 节流行都函数不生效问题1](https://juejin.cn/post/6854573217349107725)
+[React Hookl里 节流行都函数不生效问题2](https://blog.csdn.net/lovezhuer1/article/details/112681236)
 合成事件
 virtual dom
 setState过程
