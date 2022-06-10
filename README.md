@@ -90,7 +90,10 @@ http 状态吗
 数据绑定原理
 computed和watch
 slot
-next tick原理
+[手写数据响应式](https://segmentfault.com/a/1190000037569192)
+[nextTick原理](https://segmentfault.com/a/1190000040426174)
+[为什么Vue组件中的Data是一个函数?](https://blog.csdn.net/qq_56392992/article/details/123379396)
+
 keep alive
 [原生vue实现表格的编辑，包括单元格合并，拆分，删除行/列， 添加行/列](https://www.cnblogs.com/yalong/p/11360200.html)
 
@@ -121,6 +124,8 @@ fiber
 [express和koa的区别](https://www.cnblogs.com/yalong/p/15566133.html)
 模块机制
 require原理
+[node.js 使用require加载第三方包时的查找规则](https://blog.csdn.net/lan123456_/article/details/107664308)
+
 事件循环
 cluster原理
 流机制
