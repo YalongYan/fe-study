@@ -53,15 +53,11 @@ DOM树
 
 ## HTTP
 [http缓存中etag的生成原理](https://www.cnblogs.com/yalong/p/15207547.html)
-
 [no-catch和no-store的区别](https://www.cnblogs.com/yalong/p/14703910.html)
-
 [彻底弄懂session，cookie，token](https://segmentfault.com/a/1190000017831088)
-
 [sessionStorage 和 localStorage](https://www.runoob.com/jsref/prop-win-sessionstorage.html)
-
 [XSS 和 CSRF简述及预防措施](https://www.cnblogs.com/yangsg/p/10621496.html)、
-
+[跨域资源共享 CORS 详解](https://www.ruanyifeng.com/blog/2016/04/cors.html)
 [options 请求](https://www.codeleading.com/article/74222615780/)
 
 http 状态吗
