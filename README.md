@@ -25,6 +25,8 @@
 
 [set map的区别](https://blog.csdn.net/weixin_43359799/article/details/123131917)
 
+[你需要知道的requestAnimationFrame](https://juejin.cn/post/6844903565048152078)
+
 
 ## 浏览器
 
@@ -43,7 +45,6 @@
 [渲染合成层](https://segmentfault.com/a/1190000014520786)
 
 [前端浏览器动画性能优化](https://www.jianshu.com/p/d24a891d4de6)
-
 
 
 ## 移动端
@@ -75,10 +76,19 @@
 
 [HTTP_POST请求的数据格式-最常用的有三种](https://blog.csdn.net/qq_45297578/article/details/118783956)
 
+[用 preload 预加载页面资源](https://juejin.cn/post/6844903562070196237#heading-4)
+
+[从输入URL到页面加载的过程](https://juejin.cn/post/6844903574535667719)
+
+[HTTP2.0](https://juejin.cn/post/6844903734670000142)
+
+
 ## 性能
 [前端性能优化之旅 - 网站](https://alienzhou.com/projects/fe-performance-journey/)
 
 [前端性能优化之旅 - Git](https://github.com/alienzhou/fe-performance-journey)
+
+[兄dei，听说你动画很卡？](https://juejin.cn/post/6844903716500439047)
 
 ## 正则表达式
 
@@ -103,7 +113,8 @@ slot
 
 [为什么Vue组件中的Data是一个函数?](https://blog.csdn.net/qq_56392992/article/details/123379396)
 
-keep alive  
+[彻底揭秘keep-alive原理](https://juejin.cn/post/6844903837770203144#heading-7)
+
 [原生vue实现表格的编辑，包括单元格合并，拆分，删除行/列， 添加行/列](https://www.cnblogs.com/yalong/p/11360200.html)
 
 ## react
