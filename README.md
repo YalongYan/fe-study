@@ -15,6 +15,8 @@
 
 [js 七种方法实现把 arguments 转为数组](https://www.cnblogs.com/yalong/p/14293732.html)
 
+[JavaScript执行机制(EventLoop)](https://juejin.cn/post/6992985462163898382)
+
 [js 模拟实现EventBus](https://www.cnblogs.com/yalong/p/14294497.html)
 
 [js 模拟实现Map类](https://www.cnblogs.com/yalong/p/14292024.html)
@@ -32,16 +34,17 @@
 
  [cookie、session、localStorage、sessionStorage 区别](https://blog.csdn.net/wangyangnuli/article/details/122297960)
 
+[图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
+
+[跨标签页通信](https://juejin.cn/post/6844903811232825357)
+
+[浏览器缓存之强缓存与协商缓存](https://juejin.cn/post/6844904067882287111)
+
+[渲染合成层](https://segmentfault.com/a/1190000014520786)
+
+[前端浏览器动画性能优化](https://www.jianshu.com/p/d24a891d4de6)
 
 
-跨标签页通信
-history和hash两种路由
-DOM树
-事件模型
-缓存策略
-浏览器架构
-浏览器工作原理
-内存泄露
 
 ## 移动端
 
@@ -50,6 +53,8 @@ DOM树
 [总结移动端H5开发常用技巧](https://juejin.cn/post/6844904066301050893)
 
 [几个经常在H5移动端开发遇到的问题](https://juejin.cn/post/6844903959287562254)
+
+[viewport移动端适配](https://juejin.cn/post/6844903721697017864)
 
 ## HTTP
 [http缓存中etag的生成原理](https://www.cnblogs.com/yalong/p/15207547.html)
@@ -66,28 +71,23 @@ DOM树
 
 [options 请求](https://www.codeleading.com/article/74222615780/)
 
-http 状态吗
-请求头
-响应头
-三种请求类型 formData  json xxx-
+[HTTP常见状态码（14种）](https://blog.csdn.net/banana960531/article/details/85621865)
 
+[HTTP_POST请求的数据格式-最常用的有三种](https://blog.csdn.net/qq_45297578/article/details/118783956)
 
-## 前端编程
+## 性能
+[前端性能优化之旅 - 网站](https://alienzhou.com/projects/fe-performance-journey/)
 
-实现一个trim方法
-实现一个deepClone方法
-实现 add(1)(2)(3)
-大数相加
-拍平数组
-实现防抖函数
-实现节流函数
-实现字符串翻转
-数组去重
-实现千位分隔符
-判断是否是回文数
-实现一个模板引擎
-判断一个数是否是素数
-获取n以内所有的素数
+[前端性能优化之旅 - Git](https://github.com/alienzhou/fe-performance-journey)
+
+## 正则表达式
+
+[正则实现数字的千位分隔符表示法 - 1](https://www.cnblogs.com/yalong/p/15183715.html)
+
+[正则实现数字的千位分隔符表示法 - 2](https://www.jianshu.com/p/928c68f92c0c)
+
+[正则表达式里问号?的用法](https://www.cnblogs.com/yalong/p/15183458.html)
+
 
 ## vue
 
@@ -98,7 +98,7 @@ slot
 [nextTick原理](https://segmentfault.com/a/1190000040426174)
 [为什么Vue组件中的Data是一个函数?](https://blog.csdn.net/qq_56392992/article/details/123379396)
 
-keep alive
+keep alive  
 [原生vue实现表格的编辑，包括单元格合并，拆分，删除行/列， 添加行/列](https://www.cnblogs.com/yalong/p/11360200.html)
 
 ## react
