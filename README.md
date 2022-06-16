@@ -1,102 +1,15 @@
 ## javascript
-[继承](https://github.com/mqyqingfeng/Blog/issues/16)
-
-[js深度克隆-包含循环引用](https://cloud.tencent.com/developer/article/1497418)
-
-[set map weakSet weakMap](https://blog.csdn.net/duyujian706709149/article/details/96310651)
-
-[javascript的几种遍历循环方法及其性能对比](http://suven.cn/2019/08/25/javascript%E7%9A%84%E5%87%A0%E7%A7%8D%E9%81%8D%E5%8E%86%E5%BE%AA%E7%8E%AF%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94/)
-
-[promise高级用法: 同步执行，并发控制，并发控制并获取全部执行结果](https://www.cnblogs.com/yalong/p/16038528.html)
-
-[js如何在json中存储函数](https://www.cnblogs.com/yalong/p/15768087.html)
-
-[js实现斐波那契数列的几种方式](https://www.cnblogs.com/yalong/p/14943094.html)
-
-[js 七种方法实现把 arguments 转为数组](https://www.cnblogs.com/yalong/p/14293732.html)
-
-[JavaScript执行机制(EventLoop)](https://juejin.cn/post/6992985462163898382)
-
-[js 模拟实现EventBus](https://www.cnblogs.com/yalong/p/14294497.html)
-
-[js 模拟实现Map类](https://www.cnblogs.com/yalong/p/14292024.html)
-
-[jsonp 原理 并模拟实现一个简单的jsonp](https://www.cnblogs.com/yalong/p/11130395.html)
-
-[set map的区别](https://blog.csdn.net/weixin_43359799/article/details/123131917)
-
-[你需要知道的requestAnimationFrame](https://juejin.cn/post/6844903565048152078)
-
 
 ## 浏览器
-
- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
-
- [sessionStorage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/sessionStorage)
-
- [cookie、session、localStorage、sessionStorage 区别](https://blog.csdn.net/wangyangnuli/article/details/122297960)
-
-[图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
-
-[跨标签页通信](https://juejin.cn/post/6844903811232825357)
-
-[浏览器缓存之强缓存与协商缓存](https://juejin.cn/post/6844904067882287111)
-
-[渲染合成层](https://segmentfault.com/a/1190000014520786)
-
-[前端浏览器动画性能优化](https://www.jianshu.com/p/d24a891d4de6)
 
 
 ## 移动端
 
-[关于移动端适配，你必须要知道的](https://juejin.cn/post/6844903845617729549)
-
-[总结移动端H5开发常用技巧](https://juejin.cn/post/6844904066301050893)
-
-[几个经常在H5移动端开发遇到的问题](https://juejin.cn/post/6844903959287562254)
-
-[viewport移动端适配](https://juejin.cn/post/6844903721697017864)
-
 ## HTTP
-[http缓存中etag的生成原理](https://www.cnblogs.com/yalong/p/15207547.html)
-
-[no-catch和no-store的区别](https://www.cnblogs.com/yalong/p/14703910.html)
-
-[彻底弄懂session，cookie，token](https://segmentfault.com/a/1190000017831088)
-
-[sessionStorage 和 localStorage](https://www.runoob.com/jsref/prop-win-sessionstorage.html)
-
-[XSS 和 CSRF简述及预防措施](https://www.cnblogs.com/yangsg/p/10621496.html)
-
-[跨域资源共享 CORS 详解](https://www.ruanyifeng.com/blog/2016/04/cors.html)
-
-[options 请求](https://www.codeleading.com/article/74222615780/)
-
-[HTTP常见状态码（14种）](https://blog.csdn.net/banana960531/article/details/85621865)
-
-[HTTP_POST请求的数据格式-最常用的有三种](https://blog.csdn.net/qq_45297578/article/details/118783956)
-
-[用 preload 预加载页面资源](https://juejin.cn/post/6844903562070196237#heading-4)
-
-[从输入URL到页面加载的过程](https://juejin.cn/post/6844903574535667719)
-
-[HTTP2.0](https://juejin.cn/post/6844903734670000142)
-
 
 ## 性能
-[前端性能优化之旅 - 网站](https://alienzhou.com/projects/fe-performance-journey/)
-
-[前端性能优化之旅 - Git](https://github.com/alienzhou/fe-performance-journey)
-
-[兄dei，听说你动画很卡？](https://juejin.cn/post/6844903716500439047)
 
 ## 正则表达式
-
-[正则实现数字的千位分隔符表示法 - 1](https://www.cnblogs.com/yalong/p/15183715.html)
-
-[正则实现数字的千位分隔符表示法 - 2](https://www.jianshu.com/p/928c68f92c0c)
-
-[正则表达式里问号?的用法](https://www.cnblogs.com/yalong/p/15183458.html)
 
 
 ## vue
