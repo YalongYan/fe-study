@@ -153,19 +153,10 @@ husky
 
 ## 算法
 
-## 网络
-
-## 开发工具
-### git可视化工具: sourceTree
-
-
-### 代码编辑器
-vscode
-
-sublime
-
-### 接口调试工具
+### 开发工具
 postman
+git
+sourceTree
 
 ### 数据库管理工具
 mysql workBench
@@ -185,6 +176,8 @@ mysql
 
 mongoDB
 
+es
+
 ## 解决方案
 [前端js实现导出大量数据的excel文件](https://www.cnblogs.com/yalong/p/15095651.html)
 
@@ -200,14 +193,6 @@ react实现拖拽生成看板
 
 ## Linux
 
-查看端口号的命令： https://www.jianshu.com/p/43186bf7978c
-
-curl 的用法指南 https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
-
-[echo > 和 echo >>的区别](https://www.cnblogs.com/aspirant/p/7802989.html)
-
-## Shell
-
 ## Docker
 
 ## jenkins
@@ -216,20 +201,7 @@ curl 的用法指南 https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
 
 ## Nginx
 
-[前端Nginx那些事](https://juejin.cn/post/6844904102447546382)
-
 ## 书籍推荐
-[少有人走的路](https://www.amazon.cn/dp/B08M418KHX/ref=sr_1_2?keywords=%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF&qid=1648434431&sprefix=%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%2Caps%2C119&sr=8-2)
 
-[被讨厌的勇气](https://www.amazon.cn/dp/B07N67L1RT/ref=sr_1_1?crid=22X3OND72GJH2&keywords=%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94&qid=1648434509&sprefix=%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%2Caps%2C85&sr=8-1)
-
-[你不知道的javascript上 中 下]()
-
-[金字塔原理]()
-
-## 锻炼口才
-
-1.辩论赛视频
-2.
 
 
