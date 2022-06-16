@@ -1,19 +1,30 @@
 ### 动态规划
-[1.两个字符串的最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/)
+[两个字符串的最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/)
 [打家劫舍](https://leetcode.cn/problems/house-robber/)
 
 ### 树
 [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
+
 [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)
+
 [二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
+
 [二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+
 [对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
+
 [相同的树](https://leetcode.cn/problems/same-tree/)
+
 [反转二叉树](https://leetcode.cn/problems/invert-binary-tree/)
+
 [合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)
+
 [二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
+
 [二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+
 [路径总和](https://leetcode.cn/problems/path-sum/)
+
 
 ### 链表
 [LRU 缓存](https://leetcode.cn/problems/lru-cache/)
