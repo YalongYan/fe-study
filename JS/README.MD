@@ -1,3 +1,5 @@
+[彻底搞懂闭包，柯里化，手写代码，金九银十不再丢分！](https://juejin.cn/post/6864378349512065038)
+
 [继承](https://github.com/mqyqingfeng/Blog/issues/16)
 
 [js深度克隆-包含循环引用](https://cloud.tencent.com/developer/article/1497418)
@@ -25,6 +27,12 @@
 [set map的区别](https://blog.csdn.net/weixin_43359799/article/details/123131917)
 
 [你需要知道的requestAnimationFrame](https://juejin.cn/post/6844903565048152078)
+
+[前端实现动画效果的几种方式 - 九种](https://www.cnblogs.com/yalong/p/16385198.html)
+
+[10个常见的前端手写功能，你全都会吗？](https://juejin.cn/post/7031322059414175774#heading-10)
+
+
 
 
 
