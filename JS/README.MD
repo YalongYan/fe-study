@@ -36,6 +36,10 @@
 
 [牛客最新前端JS笔试百题](https://juejin.cn/post/7023271065392513038)
 
+[Js-使用URL对象获取GET参数](https://blog.csdn.net/qq_45458749/article/details/124551601)
+
+
+
 
 
 
