@@ -23,3 +23,9 @@
 [从输入URL到页面加载的过程](https://juejin.cn/post/6844903574535667719)
 
 [HTTP2.0](https://juejin.cn/post/6844903734670000142)
+
+[HTTPS加密原理及加密算法](https://zhuanlan.zhihu.com/p/418178630)
+
+[半小时搞懂 HTTP、HTTPS和HTTP2](https://baijiahao.baidu.com/s?id=1692468167881358158&wfr=spider&for=pc)
+
+
