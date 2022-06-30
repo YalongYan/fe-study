@@ -38,8 +38,9 @@
 
 [Js-使用URL对象获取GET参数](https://blog.csdn.net/qq_45458749/article/details/124551601)
 
+[ajax封装（精简篇）](https://blog.csdn.net/qq_37430247/article/details/110881629)
 
-
+[前端模块化iife、CJS、AMD、UMD、ESM的区别](https://blog.csdn.net/weixin_41996102/article/details/119455309)
 
 
 
