@@ -14,9 +14,13 @@
 
 [前端料理gitlabCI/CD](https://zhuanlan.zhihu.com/p/379900364)
 
+[docker 常用命令](https://blog.csdn.net/D1179869625/article/details/122933562)
+
 ### 问题汇总
 
 [docker login/pull报错x509: ... Common Name matching with GODEBUG=x509ignoreCN=0](https://blog.csdn.net/weixin_40930677/article/details/121281732)
 
+[docker push报错denied: requested access to the resource is denied ](https://blog.51cto.com/u_15295608/3011865)
 
+[Error response from daemon: conflict: unable to delete bc9a0695f571 (must be forced) - image is referenced in multiple repositories](https://www.cnblogs.com/xuhao0705/p/14037263.html)
 
