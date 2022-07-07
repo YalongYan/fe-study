@@ -14,4 +14,9 @@
 
 [前端料理gitlabCI/CD](https://zhuanlan.zhihu.com/p/379900364)
 
+### 问题汇总
+
+[docker login/pull报错x509: ... Common Name matching with GODEBUG=x509ignoreCN=0](https://blog.csdn.net/weixin_40930677/article/details/121281732)
+
+
 
