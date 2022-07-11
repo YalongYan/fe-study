@@ -21,3 +21,7 @@
 
 [九种跨域方式实现原理（完整版）](https://juejin.cn/post/6844903767226351623)
 
+[Cookie中的domain与path属性详解](https://www.jianshu.com/p/1b7aa6fb81ec)
+
+
+
