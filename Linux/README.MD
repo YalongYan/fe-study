@@ -10,6 +10,9 @@ curl 的用法指南 https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
 
 [linux中安装配置node环境](https://blog.csdn.net/qq_42046421/article/details/124752854)
 
+[Linux中pm2运行node文件报错](https://blog.csdn.net/weixin_43873029/article/details/123002343)
+
+
 
 shell
 
