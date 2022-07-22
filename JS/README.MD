@@ -42,6 +42,7 @@
 
 [前端模块化iife、CJS、AMD、UMD、ESM的区别](https://blog.csdn.net/weixin_41996102/article/details/119455309)
 
+[JS6种继承的优缺点总结](https://blog.csdn.net/qq_27674439/article/details/102542041)
 
 
 
