@@ -3,6 +3,8 @@
 
 [mysql]()
 
+[mysql 防注入的方法_node-mysql中防止SQL注入的方法总结](https://blog.csdn.net/weixin_39688019/article/details/113150417)
+
 mongodb
 
 es
