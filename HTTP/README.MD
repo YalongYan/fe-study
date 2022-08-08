@@ -28,4 +28,6 @@
 
 [半小时搞懂 HTTP、HTTPS和HTTP2](https://baijiahao.baidu.com/s?id=1692468167881358158&wfr=spider&for=pc)
 
+[X-Forwarded-For的一些理解](https://blog.csdn.net/zyhmz/article/details/82505344)
+
 
