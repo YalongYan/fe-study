@@ -12,7 +12,5 @@ curl 的用法指南 https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
 
 [Linux中pm2运行node文件报错](https://blog.csdn.net/weixin_43873029/article/details/123002343)
 
-
-
-shell
+[Linux文件相关常用命令（超全超详细）](https://blog.csdn.net/zhangxl123liang/article/details/123728515)
 
