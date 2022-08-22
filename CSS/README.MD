@@ -10,3 +10,7 @@
 
 [Flex 布局教程：语法篇](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
+[ShadowDOM css样式处理详解](https://www.tangshuang.net/8386.html)
+
+[什么是shadow Dom？有什么用？](https://juejin.cn/post/7038550632147451941)
+
