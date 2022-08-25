@@ -44,5 +44,5 @@
 
 [JS6种继承的优缺点总结](https://blog.csdn.net/qq_27674439/article/details/102542041)
 
-
+[js中setTimeout，requestAnimationFrame，requestIdleCallback的区别和应用](https://blog.csdn.net/handsomexiaominge/article/details/89057456)
 
