@@ -25,6 +25,9 @@
 
 [html中的meta配置](https://www.cnblogs.com/shandou/p/14629559.html)
 
+[sessionStorage详解](https://blog.csdn.net/mengshang529/article/details/98735158)
+
+
 
 
 
