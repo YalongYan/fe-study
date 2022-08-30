@@ -30,4 +30,8 @@
 
 [X-Forwarded-For的一些理解](https://blog.csdn.net/zyhmz/article/details/82505344)
 
+[preload、prefetch、preconnect 和 dns-prefetch 知多少](https://blog.51cto.com/u_15089765/2600770)
+
+
+
 
