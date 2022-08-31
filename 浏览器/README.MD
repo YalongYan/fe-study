@@ -29,9 +29,9 @@
 
 [CSS 会阻塞 DOM 解析吗？](https://blog.csdn.net/sisterAn/article/details/119405994)
 
+[实现多个标签页之间通信的几种方法](https://dandelioncloud.cn/article/details/1456499029281665025)
 
-
-
+[前端开发的workers——web workers、share workers和service workers](https://blog.csdn.net/gdutRex/article/details/100945412)
 
 
 
