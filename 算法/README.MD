@@ -52,7 +52,7 @@
 
 [LRU 缓存](https://leetcode.cn/problems/lru-cache/)
 
-## 数组
+#### 数组
 [计数质数](https://leetcode.cn/problems/count-primes/)
 
 [有效的括号](https://leetcode.cn/problems/valid-parentheses/)
