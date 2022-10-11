@@ -1,3 +1,5 @@
+## JS
+
 [彻底搞懂闭包，柯里化，手写代码，金九银十不再丢分！](https://juejin.cn/post/6864378349512065038)
 
 [继承](https://github.com/mqyqingfeng/Blog/issues/16)

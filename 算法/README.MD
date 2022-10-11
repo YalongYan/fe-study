@@ -1,3 +1,5 @@
+## 算法
+
 ### 动态规划
 [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)
 
@@ -57,7 +59,7 @@
 
 [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
 
-## 回溯
+### 回溯
 [全排列](https://leetcode.cn/problems/permutations/)
 
 [三数之和](https://leetcode.cn/problems/3sum/)
@@ -66,7 +68,7 @@
 
 [子集](https://leetcode.cn/problems/subsets/)
 
-## 未分类
+### 未分类
 [判断素数的三种方法详解](https://blog.csdn.net/lffup/article/details/124540319?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-124540319-blog-51331710.pc_relevant_blogantidownloadv1&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
 
 
