@@ -50,6 +50,8 @@
 
 [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
 
+[合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/description/?languageTags=javascript)
+
 [LRU 缓存](https://leetcode.cn/problems/lru-cache/)
 
 #### 数组
@@ -59,6 +61,9 @@
 
 [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
 
+[最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/description/)
+
+
 #### 回溯
 [全排列](https://leetcode.cn/problems/permutations/)
 
@@ -67,6 +72,10 @@
 [最接近的三数之和](https://leetcode.cn/problems/3sum-closest/)
 
 [子集](https://leetcode.cn/problems/subsets/)
+
+[递增子序列](https://leetcode.cn/problems/increasing-subsequences/description/)
+
+[最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/description/)
 
 #### 未分类
 [判断素数的三种方法详解](https://blog.csdn.net/lffup/article/details/124540319?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-124540319-blog-51331710.pc_relevant_blogantidownloadv1&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
