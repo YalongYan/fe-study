@@ -4,8 +4,9 @@
 
 [年终回顾，为你汇总一份「前端技术清单」](https://juejin.cn/post/6844903704450039815)
 
-[历时8个月，10w字！前端知识体系+大厂面试笔记（工程化篇）](https://juejin.cn/post/7146976516692410376)
+[10w字！前端知识体系+大厂面试笔记（工程化篇）](https://juejin.cn/post/7146976516692410376)
 
+[10w字前端知识体系+大厂面试总结（基础知识篇）](https://juejin.cn/post/7146973901166215176)
 ##  CI/CD
 
 [实战：从 0 到 1 GitLab CI/CD 前端持续部署](https://cloud.tencent.com/developer/article/1938810)
@@ -260,6 +261,9 @@
 
 [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)
 
+[零钱兑换](https://leetcode.cn/problems/coin-change/description/?languageTags=javascript)
+
+
 #### 树
 [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
 
@@ -293,6 +297,8 @@
 
 [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
 
+[合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/description/?languageTags=javascript)
+
 [LRU 缓存](https://leetcode.cn/problems/lru-cache/)
 
 #### 数组
@@ -302,6 +308,9 @@
 
 [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
 
+[最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/description/)
+
+
 #### 回溯
 [全排列](https://leetcode.cn/problems/permutations/)
 
@@ -310,6 +319,10 @@
 [最接近的三数之和](https://leetcode.cn/problems/3sum-closest/)
 
 [子集](https://leetcode.cn/problems/subsets/)
+
+[递增子序列](https://leetcode.cn/problems/increasing-subsequences/description/)
+
+[最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/description/)
 
 #### 未分类
 [判断素数的三种方法详解](https://blog.csdn.net/lffup/article/details/124540319?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-124540319-blog-51331710.pc_relevant_blogantidownloadv1&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
