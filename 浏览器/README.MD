@@ -34,6 +34,12 @@
 
 [前端开发的workers——web workers、share workers和service workers](https://blog.csdn.net/gdutRex/article/details/100945412)
 
+[Fetch API 教程](https://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
+
+[传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
+
+
+
 
 
 
