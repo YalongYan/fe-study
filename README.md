@@ -217,6 +217,8 @@
 
 [egg框架路由分组](https://blog.csdn.net/csdn_chengpeng/article/details/111904563)
 
+[egg.js修改配置应用启动的端口号](https://www.cnblogs.com/crazycode2/p/12550948.html)
+
 ## Pm2 
 
 [pm2 官网](https://pm2.keymetrics.io/)
