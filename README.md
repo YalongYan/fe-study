@@ -203,13 +203,19 @@
 
 [Express 中文网](https://www.expressjs.com.cn/)
 
+[Express中间件原理及实现](https://www.jianshu.com/p/2d36a055702c)
+
 ## Koa2
 
 [Koa2 官网](https://www.koajs.com.cn/#introduction)
 
+[Koa2中间件原理浅析与实现](https://juejin.cn/post/6897907353313705997)
+
 ## Egg.Js
 
 [egg 官网](https://www.eggjs.org/zh-CN/intro/)
+
+[结合源码解密 egg 运行原理](https://zhuanlan.zhihu.com/p/29102746)
 
 [egg学习笔记](https://blog.csdn.net/yehuozhili/article/details/117028035)
 
@@ -390,12 +396,20 @@
 
 [Elasticsearch的特点优点 为什么比MySQL快？](https://blog.csdn.net/m0_67391121/article/details/124460151)
 
----
+[海量日志数据存储用 elasticsearch 和 hbase 哪个好？](https://www.zhihu.com/question/41109030)
 
-mongodb
 
-innerdb
+#### Mongodb
 
+[MongoDB 教程 - 菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)
+
+[MongoDB快速入门](https://juejin.cn/post/6844904150635921422)
+
+#### IndexedDB
+
+[浏览器数据库 IndexedDB 入门教程](https://www.ruanyifeng.com/blog/2018/07/indexeddb.html)
+
+[IndexedDB API - JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/API/IndexedDB_API/Using_IndexedDB)
 ## 浏览器
 
 [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)

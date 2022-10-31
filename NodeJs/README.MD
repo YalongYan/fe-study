@@ -8,13 +8,19 @@
 
 [Express 中文网](https://www.expressjs.com.cn/)
 
+[Express中间件原理及实现](https://www.jianshu.com/p/2d36a055702c)
+
 ## Koa2
 
 [Koa2 官网](https://www.koajs.com.cn/#introduction)
 
+[Koa2中间件原理浅析与实现](https://juejin.cn/post/6897907353313705997)
+
 ## Egg.Js
 
 [egg 官网](https://www.eggjs.org/zh-CN/intro/)
+
+[结合源码解密 egg 运行原理](https://zhuanlan.zhihu.com/p/29102746)
 
 [egg学习笔记](https://blog.csdn.net/yehuozhili/article/details/117028035)
 
