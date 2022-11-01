@@ -116,8 +116,9 @@
 
 [preload、prefetch、preconnect 和 dns-prefetch 知多少](https://blog.51cto.com/u_15089765/2600770)
 
+[HTTP 499 状态码 nginx下 499错误的解决办法](https://blog.csdn.net/weixin_43675226/article/details/120746537)
 
-
+[http代理504网关超时错误原因介绍](https://zhuanlan.zhihu.com/p/441175462)
 
 ## JS
 
@@ -232,6 +233,13 @@
 [使用 PM2 管理nodejs进程](https://www.cnblogs.com/tcz1018/p/16550522.html)
 
 [pm2 常用命令](https://www.cnblogs.com/yalong/p/13931999.html)
+
+## NodeJs 问题汇总
+[nginx 代理node高并发下报错 recv() failed(104 Connection reset by peer) while reading response header from upstream](https://www.cnblogs.com/yalong/p/16147590.html)
+
+[定位node服务返回400的问题](https://juejin.cn/post/7099635268331765796)
+
+[异步模型的脆折风险----从一次 Node 服务故障谈起](https://juejin.cn/post/6984245750171598885)
 
 ## React
 
@@ -545,9 +553,11 @@
 
 [微前端框架qiankun之原理与实战](https://blog.csdn.net/qq_41694291/article/details/113842872)
 
-
 #### 前端监控
 [说说前端监控平台/监控SDK的架构设计和难点亮点？](https://mp.weixin.qq.com/s/MY0Xb6abi-rksH3_RVhRLA)
+
+[如何监控网页崩溃？](https://juejin.cn/post/6844903705318260743?utm_source=gold_browser_extension)
+
 
 
 ## 面试真题

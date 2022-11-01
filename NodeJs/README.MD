@@ -38,3 +38,10 @@
 
 [pm2 常用命令](https://www.cnblogs.com/yalong/p/13931999.html)
 
+## NodeJs 问题汇总
+[nginx 代理node高并发下报错 recv() failed(104 Connection reset by peer) while reading response header from upstream](https://www.cnblogs.com/yalong/p/16147590.html)
+
+[定位node服务返回400的问题](https://juejin.cn/post/7099635268331765796)
+
+[异步模型的脆折风险----从一次 Node 服务故障谈起](https://juejin.cn/post/6984245750171598885)
+

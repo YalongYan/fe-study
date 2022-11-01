@@ -34,6 +34,7 @@
 
 [preload、prefetch、preconnect 和 dns-prefetch 知多少](https://blog.51cto.com/u_15089765/2600770)
 
+[HTTP 499 状态码 nginx下 499错误的解决办法](https://blog.csdn.net/weixin_43675226/article/details/120746537)
 
-
+[http代理504网关超时错误原因介绍](https://zhuanlan.zhihu.com/p/441175462)
 
