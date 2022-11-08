@@ -26,6 +26,7 @@
 
 [如何优化 node 项目的 docker 镜像（像老板压榨员工一样压榨镜像）](https://juejin.cn/post/6991689670027542564)
 
+[docker exec 的使用-it操作](https://blog.csdn.net/qq_40081976/article/details/84590119)
 
 #### Docker问题汇总
 

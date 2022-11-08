@@ -38,3 +38,6 @@
 
 [http代理504网关超时错误原因介绍](https://zhuanlan.zhihu.com/p/441175462)
 
+[浅谈https和http2](https://www.cnblogs.com/yuan233/p/10525476.html)
+
+
