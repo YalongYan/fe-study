@@ -63,6 +63,7 @@
 
 [如何优化 node 项目的 docker 镜像（像老板压榨员工一样压榨镜像）](https://juejin.cn/post/6991689670027542564)
 
+[docker exec 的使用-it操作](https://blog.csdn.net/qq_40081976/article/details/84590119)
 
 #### Docker问题汇总
 
@@ -119,6 +120,9 @@
 [HTTP 499 状态码 nginx下 499错误的解决办法](https://blog.csdn.net/weixin_43675226/article/details/120746537)
 
 [http代理504网关超时错误原因介绍](https://zhuanlan.zhihu.com/p/441175462)
+
+[浅谈https和http2](https://www.cnblogs.com/yuan233/p/10525476.html)
+
 
 ## JS
 
@@ -253,6 +257,21 @@
 
 [React中的不可变值](https://juejin.cn/post/6949184783473704974)
 
+## Three.js
+
+[three.js 官网](https://threejs.org/)
+
+[three.js 官方demo](https://threejs.org/examples/#webgl_animation_keyframes)
+
+[three.js github 地址](https://github.com/mrdoob/three.js/tree/master)
+
+[three.js 中文网](http://www.webgl3d.cn/)
+
+[three.js中文文档之本地运行 three.js中文文档学习之怎样本地运行详解](http://www.qb5200.com/article/328971.html)
+
+[Three.js 入门指南 PDF](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnw1ODNpbmZvcm1hdGlvbnxneDoyNTAyM2U1ZDBmYmQwYjQw)
+
+[基于 Three.js 实现 3D 模型换肤](https://github.com/JChehe/blog/issues/44)
 ## TypeScript
 
 [最全的TypeScript学习指南](https://juejin.cn/post/7031787942691471396)
@@ -457,6 +476,10 @@
 [Fetch API 教程](https://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
 
 [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
+
+[如何让浏览器tab页数据不共享](https://blog.csdn.net/su92chen/article/details/78543173)
+
+
 
 
 
