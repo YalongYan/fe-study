@@ -38,6 +38,10 @@
 
 [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
 
+[如何让浏览器tab页数据不共享](https://blog.csdn.net/su92chen/article/details/78543173)
+
+
+
 
 
 
